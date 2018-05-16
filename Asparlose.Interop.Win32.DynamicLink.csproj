@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.3</TargetFramework>
+    <RootNamespace>Asparlose.Interop.Win32</RootNamespace>
+    <Authors>Asparlose</Authors>
+    <Company>Asparlose</Company>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Asparlose.DisposableObject" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>
